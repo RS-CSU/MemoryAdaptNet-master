@@ -12,12 +12,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2022.
 Please cite our paper if you find it useful for your research.
 
 ```
-@inproceedings{MemoryAdaptNet,
-  author = { Jingru Zhu and Ya Guo and Geng Sun and Lobo Yang and Min Deng and Jie Chen},
-  booktitle = {IEEE Transactions on Geoscience and Remote Sensing},
-  title = {Unsupervised Domain Adaptation for Semantic Segmentation of High-Resolution Remote Sensing Imagery Driven by Category-Certainty Attention},
-  year = {2022}
-}
+
 ```
 
 ## Example Results
