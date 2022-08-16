@@ -26,7 +26,7 @@ Please cite our paper if you find it useful for your research.
 
 * Clone this repo
 ```
-git clone https://github.com/**/MemoryAdaptNet
+git clone [https://github.com/RS-CSU/MemoryAdaptNet]
 cd MemoryAdaptNet
 ```
 ## Dataset
