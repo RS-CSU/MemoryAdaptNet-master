@@ -9,11 +9,6 @@ Contact: Jingru Zhu (zhujingru@csu.edu.cn)
 Jingru Zhu, Ya Guo , Geng Sun, Lobo Yang,  Min Deng and Jie Chen, Member, IEEE, <br />
 submit to IEEE Transactions on Geoscience and Remote Sensing.
 
-Please cite our paper if you find it useful for your research.
-
-```
-
-```
 
 ## Example Results
 
