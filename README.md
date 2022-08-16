@@ -7,7 +7,7 @@ Contact: Jingru Zhu (zhujingru@csu.edu.cn)
 ## Paper
 [Unsupervised Domain Adaptation Semantic Segmentation of HRS Imagery with Invariant Domain-level Context memory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667523) <br />
 Jingru Zhu, Ya Guo , Geng Sun, Lobo Yang,  Min Deng and Jie Chen, Member, IEEE, <br />
-IEEE Transactions on Geoscience and Remote Sensing, 2022.
+submit to IEEE Transactions on Geoscience and Remote Sensing.
 
 Please cite our paper if you find it useful for your research.
 
