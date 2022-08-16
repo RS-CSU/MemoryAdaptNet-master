@@ -1,4 +1,4 @@
-# MemoryAdaptNet:Unsupervised Domain Adaptation Semantic Segmentation of HRS Imagery with Invariant Domain-level Context memory
+# MemoryAdaptNet:Unsupervised Domain Adaptation Semantic Segmentation of High Resolution Remote Sensing Imagery with Invariant Domain-level Context memory
 
 Pytorch implementation of our method for cross-domain semantic segmentation of the high-resolution remote sensing imagery. 
 
