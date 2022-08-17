@@ -41,7 +41,7 @@ python test_p2v_v3_1.py
 ```
 
 ## Training Examples
-* Train the Potsdam-to-Vaihingen model
+* Train the Potsdam(IR-R-G) to Vaihingen(IR-R-G) model
 
 ```
 python train_p2v_v3_1.py
