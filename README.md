@@ -1,4 +1,4 @@
-# MemoryAdaptNet:Unsupervised Domain Adaptation Semantic Segmentation of High Resolution Remote Sensing Imagery with Invariant Domain-level Context memory
+# MemoryAdaptNet-master:Unsupervised Domain Adaptation Semantic Segmentation of High Resolution Remote Sensing Imagery with Invariant Domain-level Context memory
 
 Pytorch implementation of our method for cross-domain semantic segmentation of the high-resolution remote sensing imagery. 
 
@@ -21,8 +21,8 @@ submit to IEEE Transactions on Geoscience and Remote Sensing.
 
 * Clone this repo
 ```
-git clone [https://github.com/RS-CSU/MemoryAdaptNet]
-cd MemoryAdaptNet
+git clone https://github.com/RS-CSU/MemoryAdaptNet-master
+cd MemoryAdaptNet-master
 ```
 ## Dataset
 * Download the [Potsdam Dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx/) as the source domain, and put it in the `dataset/Potsdam` folder
