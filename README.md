@@ -30,7 +30,7 @@ cd MemoryAdaptNet-master
 * Download the [Vaihingen Dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx/) as the target domain, and put it in the `data/Vaihingen` folder
 
 ## Testing
-* Download the pre-trained [p2v_best_m.pth]() and put it in the `snapshots` folder
+* Download the pre-trained [p2v_best_m.pth](https://pan.baidu.com/s/1ijuk4vzy8RIjNt2h55K5zA?pwd=nvjo) and put it in the `snapshots` folder
 * Download the pre-trained [p2v_best.pth]() and put it in the `snapshots` folder
 
 * Test the model and results will be saved in the `results` folder
