@@ -32,7 +32,6 @@ cd MemoryAdaptNet-master
 ## Testing
 * Download the pre-trained [p2v_best_m.pth]() and put it in the `snapshots` folder
 * Download the pre-trained [p2v_best.pth]() and put it in the `snapshots` folder
-* Download the pre-trained [p2v_best_d.pth]() and put it in the `snapshots` folder
 
 * Test the model and results will be saved in the `results` folder
 
