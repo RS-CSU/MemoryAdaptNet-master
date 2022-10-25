@@ -35,6 +35,11 @@ cd MemoryAdaptNet-master
 
 * Test the model and results will be saved in the `results` folder
 
+* Test the ablation models
+* Download the pre-trained [p2v_IDMA_m.pth](https://pan.baidu.com/s/1ijuk4vzy8RIjNt2h55K5zA?pwd=nvjo) and put it in the `snapshots` folder
+* Download the pre-trained [p2v_IDMA.pth](https://pan.baidu.com/s/1ijuk4vzy8RIjNt2h55K5zA?pwd=nvjo) and put it in the `snapshots` folder
+* Download the pre-trained [p2v_FDA+IDMA_m.pth](https://pan.baidu.com/s/1ijuk4vzy8RIjNt2h55K5zA?pwd=nvjo) and put it in the `snapshots` folder
+* Download the pre-trained [p2v_FDA+IDMA.pth](https://pan.baidu.com/s/1ijuk4vzy8RIjNt2h55K5zA?pwd=nvjo) and put it in the `snapshots` folder
 ```
 python test_p2v_v3_1.py
 ```
