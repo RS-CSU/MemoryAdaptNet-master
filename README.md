@@ -5,7 +5,7 @@ Pytorch implementation of our method for cross-domain semantic segmentation of t
 Contact: Jingru Zhu (zhujingru@csu.edu.cn)
 
 ## Paper
-[Unsupervised Domain Adaptation Semantic Segmentation of HRS Imagery with Invariant Domain-level Context memory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667523) <br />
+[Unsupervised Domain Adaptation Semantic Segmentation of HRS Imagery with Invariant Domain-level Context memory](https://arxiv.org/abs/2208.07722) <br />
 Jingru Zhu, Ya Guo , Geng Sun, Lobo Yang,  Min Deng and Jie Chen, Member, IEEE, <br />
 submit to IEEE Transactions on Geoscience and Remote Sensing.
 
