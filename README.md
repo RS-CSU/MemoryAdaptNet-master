@@ -27,7 +27,7 @@ cd MemoryAdaptNet-master
 ## Dataset
 * Download the [Potsdam Dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx/) as the source domain, and put it in the `dataset/Potsdam` folder
 
-* Download the [Vaihingen Dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx/) as the target domain, and put it in the `data/Vaihingen` folder
+* Download the [Vaihingen Dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx/) as the target domain, and put it in the `dataset/Vaihingen` folder
 
 ## Testing
 * Download the pre-trained [p2v_best_m.pth](https://pan.baidu.com/s/1ijuk4vzy8RIjNt2h55K5zA?pwd=nvjo) and put it in the `snapshots` folder
